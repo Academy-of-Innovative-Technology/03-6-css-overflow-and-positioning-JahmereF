@@ -15,9 +15,21 @@ html {
 }
 
 /* create overflow classes and all other CSS below here */
+.overflow-auto {
+  overflow: auto;
+}
 
+.overflow-show {
+  overflow: visible;
+}
 
+.overflow-hidden {
+  overflow: hidden;
+}
 
+.overflow-scroll {
+  overflow: scroll;
+}
 
 
 /* code for positioning code-along */
