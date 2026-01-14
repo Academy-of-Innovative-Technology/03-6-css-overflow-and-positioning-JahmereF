@@ -54,24 +54,30 @@ html {
 }
 .one{
     border: red solid 2px;
+    position: static;
     /*Code for Step 2*/
 
 
 }
 .two{
     border: yellow solid 2px;
+ left: 100px;
     /*Code for Step 3*/
-
+ position: absolute;
 
 }
 .three{
     border: blue solid 2px;
+position: fixed;
+left: 200px
     /*Code for Step 4*/
 
 
 }
 .four{
     border: orange solid 2px;
+   position: relative;
+   left: 60px;
     /*Code for Step 5*/
   
 }
